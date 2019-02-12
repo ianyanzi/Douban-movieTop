@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ianyanzi/Douban-movieTop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ianyanzi/Douban-movieTop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 豆瓣电影排行榜
+<br/>
+#### 项目介绍：
+这是一个豆瓣电影排行榜单，可以查看来自豆瓣的电影排行，最下面三个按钮分别对应排行、北美排行、搜索的页面，页面里有各项电影条目。
+ 
+<br/>
+#### 技术点：
+jQuery、Ajax、DOM事件和操作、CSS动画
+ 
+<br/>
+#### 遇到的困难：
+- 如何处理接口的数据（拼装html DOM的字符串，再将接口的数据传进去）
+- 滚动事件的触发条件
+ 
+<br/>
+#### 学习收获：
+- 用jQuery操作DOM添加元素
+- 发送Ajax请求处理参数
+- 学习面向对象的思想
+ 
+- 遇到问题不怕困难，查阅不懂的API，学会善用搜索
